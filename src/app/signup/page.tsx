@@ -42,7 +42,7 @@ export default function SignUpPage() {
               In the Pro Edition, accounts automatically create Stripe customer profiles and provision workspace tenants.
             </p>
             <a
-              href="https://rishank172.gumroad.com/l/mvwse"
+              href="https://shipstack.gumroad.com/l/nextjs-saas-starter"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block"

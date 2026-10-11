@@ -108,7 +108,7 @@ export function ProPromo() {
 
             <CardFooter className="pt-6">
               <a
-                href="https://rishank172.gumroad.com/l/mvwse"
+                href="https://shipstack.gumroad.com/l/nextjs-saas-starter"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full"

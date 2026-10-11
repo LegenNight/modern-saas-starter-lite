@@ -50,7 +50,7 @@ export default function LoginPage() {
               In the Pro Edition, this redirects to the complete SaaS Dashboard with analytics and Stripe billing.
             </p>
             <a
-              href="https://rishank172.gumroad.com/l/mvwse"
+              href="https://shipstack.gumroad.com/l/nextjs-saas-starter"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block"
@@ -94,7 +94,7 @@ export default function LoginPage() {
         <p className="text-center text-xs text-slate-500">
           Want the full SaaS starter with Stripe & Admin dashboard?{" "}
           <a
-            href="https://rishank172.gumroad.com/l/mvwse"
+            href="https://shipstack.gumroad.com/l/nextjs-saas-starter"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-600 font-semibold hover:underline"

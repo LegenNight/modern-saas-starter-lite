@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > 🌐 **Live Demo Preview**: [https://modern-saas-starter-demo.vercel.app](https://modern-saas-starter-demo.vercel.app)
-> 📦 **Pro Edition on Gumroad**: [https://rishank172.gumroad.com/l/mvwse](https://rishank172.gumroad.com/l/mvwse)
+> 📦 **Pro Edition on Gumroad**: [https://shipstack.gumroad.com/l/nextjs-saas-starter](https://shipstack.gumroad.com/l/nextjs-saas-starter)
 
 An open-source, minimalist SaaS starter template built with **Next.js 14 App Router**, **TypeScript**, and **Tailwind CSS**. Designed to give founders and indie hackers a clean, unbloated boilerplate with zero unnecessary baggage.
 
@@ -38,7 +38,7 @@ Looking for a production-ready setup with Stripe subscriptions, telemetry dashbo
 
 ### ⚡ Ready to ship faster?
 
-**[👉 Get the Full Pro SaaS Starter on Gumroad ($19)](https://rishank172.gumroad.com/l/mvwse)**
+**[👉 Get the Full Pro SaaS Starter on Gumroad ($19)](https://shipstack.gumroad.com/l/nextjs-saas-starter)**
 
 *Save 80+ hours of repetitive scaffolding. Start building what your customers actually pay for.*
 
@@ -56,7 +56,7 @@ Looking for a production-ready setup with Stripe subscriptions, telemetry dashbo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/modern-saas-starter-lite.git
+git clone https://github.com/ShipStack/modern-saas-starter-lite.git
 cd modern-saas-starter-lite
 npm install
 ```
@@ -117,5 +117,5 @@ Feel free to use this template for your own personal and commercial projects!
 
 <div align="center">
   <b>Built with ❤️ for indie hackers and modern developers.</b><br/>
-  Support the development by checking out <a href="https://rishank172.gumroad.com/l/mvwse"><b>LaunchKit Pro</b></a>!
+  Support the development by checking out <a href="https://shipstack.gumroad.com/l/nextjs-saas-starter"><b>LaunchKit Pro</b></a>!
 </div>

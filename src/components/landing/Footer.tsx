@@ -21,7 +21,7 @@ export function Footer() {
             <Link href="#features" className="hover:text-indigo-600">Features</Link>
             <Link href="#comparison" className="hover:text-indigo-600">Lite vs Pro</Link>
             <a
-              href="https://rishank172.gumroad.com/l/mvwse"
+              href="https://shipstack.gumroad.com/l/nextjs-saas-starter"
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-600 font-semibold hover:underline"
