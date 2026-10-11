@@ -3,7 +3,11 @@
 [![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Preview-black?style=for-the-badge&logo=vercel)](https://modern-saas-starter-demo.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+> 🌐 **Live Demo Preview**: [https://modern-saas-starter-demo.vercel.app](https://modern-saas-starter-demo.vercel.app)
+> 📦 **Pro Edition on Gumroad**: [https://rishank172.gumroad.com/l/mvwse](https://rishank172.gumroad.com/l/mvwse)
 
 An open-source, minimalist SaaS starter template built with **Next.js 14 App Router**, **TypeScript**, and **Tailwind CSS**. Designed to give founders and indie hackers a clean, unbloated boilerplate with zero unnecessary baggage.
 
