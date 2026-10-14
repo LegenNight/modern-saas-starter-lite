@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
   title: "LaunchKit Lite - Open Source Next.js 14 SaaS Boilerplate",
@@ -16,6 +17,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <body className="min-h-screen font-sans flex flex-col bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100">
         {children}
+        <Analytics />
       </body>
     </html>
   );
